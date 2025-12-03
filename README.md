@@ -15,7 +15,7 @@ simple-counter-app/
 ├── index.html     — main HTML page
 ├── index.css      — styling of the page
 ├── index.js       — JavaScript logic for counter functionality
-├── images/        — (optional) assets (if you later add icons, etc.)
+├── images/        — folder for images
 └── .gitignore     — ignored files for git
 ```
 
