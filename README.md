@@ -36,8 +36,3 @@ No installation, no dependencies — just plain HTML, CSS, and JavaScript.
 - CSS
 - JavaScript (vanilla)
 
-## ✅ Why this project might be useful
-
-- Great beginner-level project to demonstrate basic web development skills.
-- Shows simple DOM manipulation and event handling.
-- Easy to extend or customize for learning purposes.
