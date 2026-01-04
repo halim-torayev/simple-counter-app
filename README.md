@@ -32,7 +32,5 @@ No installation, no dependencies — just plain HTML, CSS, and JavaScript.
 
 ## 📚 Technologies Used
 
-- HTML
-- CSS
-- JavaScript (vanilla)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
 
