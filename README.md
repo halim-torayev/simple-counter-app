@@ -1,14 +1,14 @@
 # Simple Counter App
 
 A simple, lightweight counter web app built with HTML, CSS and JavaScript — no frameworks or build tools needed.
-## ✨ What it does
+## What it does
 
 - Displays a counter value on the page.
 - Two buttons: **Increment** and **Decrement**, to increase or decrease the count.
 - Stylish and clean design.
 - Works in any modern browser, just by opening `index.html`.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 simple-counter-app/
@@ -19,7 +19,7 @@ simple-counter-app/
 └── .gitignore     — ignored files for git
 ```
 
-## 🛠️ How to use / run it
+## How to use / run it
 
 1. Clone or download the repository:
    ```bash
@@ -30,7 +30,7 @@ simple-counter-app/
 
 No installation, no dependencies — just plain HTML, CSS, and JavaScript.
 
-## 📚 Technologies Used
+## Technologies Used
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
 
